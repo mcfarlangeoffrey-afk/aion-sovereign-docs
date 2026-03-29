@@ -1,6 +1,6 @@
 # Aion Sovereign — Capability Report
 
-**Generated:** 2026-03-28T19:21:07.515021  
+**Generated:** 2026-03-28T22:06:36.625314  
 **Version:** v36.12  
 **Overall Capability:** 84%  
 **Proto-AGI Threshold:** 85% ⏳ In Progress
